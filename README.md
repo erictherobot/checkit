@@ -12,7 +12,9 @@ Great for recipes, how-to's, listicles, homework, and productivity!
 - Click the "Check it!" button
 - Stay organized and get things done!
 
-![Checkit](https://media3.giphy.com/labs/images/chrome-extension.gif)
+### Install
+
+[Checkit](https://)
 
 ### MIT License
 
